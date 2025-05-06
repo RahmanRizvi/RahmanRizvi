@@ -1,3 +1,9 @@
+<!-- Links -->
+[facebook]: https://www.facebook.com/
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/
+<!-- End links -->
 
 ### Hi there 👋, I'm Rahman Rizvi
 <h4>A passionate Junior Software Engineer from Sri Lanka</h4>
