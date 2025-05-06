@@ -18,10 +18,7 @@ A passionate Junior Software Engineer from Sri Lanka
 
 ## Contact
 
-![medium-colored-facebook](medium/colored/facebook.svg)[linkedin]
-![medium-colored-facebook](medium/colored/facebook.svg)[facebook]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" align="left" height="22px">][twitter]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" align="left" height="22px">][instagram]
+![medium-colored-facebook](https://facebook.com/RahmanRizvi06)[linkedin]
 <br />
 
 ## Languages and Tools
