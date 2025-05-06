@@ -1,12 +1,3 @@
-https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
-
-<!-- Links -->
-[facebook]: https://facebook.com/RahmanRizvi06
-[twitter]: https://x.com/manbehindbooks
-[instagram]: https://instagram.com/a.rahmanrizvi
-[linkedin]: https://linkedin.com/in/rahman-rizvi-472333220]
-<!-- End links -->
-
 ### Hi there 👋, I'm Rahman Rizvi
 A passionate Junior Software Engineer from Sri Lanka
 
@@ -16,10 +7,14 @@ A passionate Junior Software Engineer from Sri Lanka
 
 - 📤 To reach me **rahmvn@outlook.com**
 
-## Contact
-
-![medium-colored-facebook](https://facebook.com/RahmanRizvi06)[linkedin]
-<br />
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/rahman-rizvi-472333220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahman-rizvi-472333220/" height="30" width="40" /></a>
+<a href="https://fb.com/rahmanrizvi06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahmanrizvi06" height="30" width="40" /></a>
+<a href="https://instagram.com/a.rahmanrizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.rahmanrizvi" height="30" width="40" /></a>
+<a href="https://twitter.com/manbehindbooks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manbehindbooks" height="30" width="40" /></a>
+<a href="https://medium.com/@rahmanrzi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahmanrzi10" height="30" width="40" /></a>
+</p>
 
 ## Languages and Tools
 
@@ -38,8 +33,8 @@ A passionate Junior Software Engineer from Sri Lanka
 ### Frameworks / Libraries
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Bootstrap" align="left" height="30px" style="padding: 5px;">
 <br />
 
 ### Tools
@@ -47,12 +42,10 @@ A passionate Junior Software Engineer from Sri Lanka
 <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Code" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="GitHub" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="Sublime" align="left" height="30px" style="padding: 5px;">
-<img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" align="left" height="30px" style="padding: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" alt="Android Studio" align="left" height="30px" style="padding: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" align="left" height="30px" style="padding: 5px;">
-<br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" align="" height="30px" style="padding: 0px;">
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanrizvi&show_icons=true&locale=en&layout=compact" alt="rahmanrizvi" />
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi)](https://drive.google.com/file/d/1jmA8vk6XAvfedL0NJoYUsDBP9lq8awjC/view?usp=drive_link)
