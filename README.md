@@ -1,12 +1,12 @@
 <!-- Links -->
-[facebook]: https://www.facebook.com/
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/
+[facebook]: https://facebook.com/RahmanRizvi06
+[twitter]: https://x.com/manbehindbooks
+[instagram]: https://instagram.com/a.rahmanrizvi
+[linkedin]: https://linkedin.com/in/rahman-rizvi-472333220]
 <!-- End links -->
 
 ### Hi there 👋, I'm Rahman Rizvi
-<h4>A passionate Junior Software Engineer from Sri Lanka</h4>
+A passionate Junior Software Engineer from Sri Lanka
 
 - 🎓 I’m currently learning **HND in Software Engineering**
 
@@ -16,10 +16,12 @@
 
 ## Contact
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px">][https://linkedin.com/in/rahman-rizvi-472333220]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" align="left" height="22px" >][https://facebook.com/RahmanRizvi06]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" align="left" height="22px">][https://instagram.com/a.rahmanrizvi]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" align="left" height="22px">][https://x.com/manbehindbooks]
+## Contact
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px">][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" align="left" height="22px" >][facebook]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" align="left" height="22px">][twitter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" align="left" height="22px">][instagram]
 <br />
 
 ## Languages and Tools
