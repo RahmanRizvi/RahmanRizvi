@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahman Rizvi
+# Hi there 👋🏼, I'm Rahman Rizvi
 A passionate Junior Software Engineer from Sri Lanka
 
 - 🎓 I’m currently learning **HND in Software Engineering**
