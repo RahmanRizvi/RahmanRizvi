@@ -16,9 +16,7 @@ A passionate Junior Software Engineer from Sri Lanka
 
 ## Contact
 
-## Contact
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px">][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px" color="white">][linkedin]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" align="left" height="22px" >][facebook]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" align="left" height="22px">][twitter]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" align="left" height="22px">][instagram]
