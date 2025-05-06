@@ -48,6 +48,6 @@ A passionate Junior Software Engineer from Sri Lanka
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanrizvi&show_icons=true&locale=en&layout=compact" alt="rahmanrizvi" />
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi)](https://drive.google.com/file/d/1jmA8vk6XAvfedL0NJoYUsDBP9lq8awjC/view?usp=drive_link)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi)](https://drive.google.com/file/d/1jmA8vk6XAvfedL0NJoYUsDBP9lq8awjC/view?usp=drivesdk)
 ---
 [![](https://visitcount.itsvg.in/api?id=RahmanRizvi&icon=0&color=0)](https://visitcount.itsvg.in)
